@@ -1,3 +1,4 @@
+#!/bin/bash
 data_dir="data"
 if [ -d "$data_dir" ]; then
     echo "$data_dir directory exist"
