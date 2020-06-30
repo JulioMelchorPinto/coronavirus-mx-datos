@@ -11,3 +11,9 @@ If a "Permission Denial" error ocurred, give the file execution privilegies:
 ```bash
 chmod +x fetch.sh
 ```
+
+If the excecution is interrupted, you can run again the script to fix missing downloads.
+
+## dictionary.sh
+
+Download the dictionary of data and the description of fields.
