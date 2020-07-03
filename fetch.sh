@@ -1,4 +1,7 @@
 #!/bin/bash
+##
+# fetch.sh - Download COVID-19 data from official sources of Mexico.
+#
 begin=2020-04-12
 today=$(date -I -d today)
 now=$(date +"%Y-%m-%d" -d "$begin")
@@ -43,4 +46,12 @@ while [ "$now" != "$end" ]; do
         unzip "$zip_dir/$ZIP_FILENAME" -d "$csv_dir"
     fi
 done
+echo "Looking for today's file ""$today"
+zip_date=$(date +"%d.%m.%Y" -d "$end")
+csv_date=$(date +"%y%m%d" -d "$end")
+ZIP_FILENAME="datos_abiertos_covid19_"$zip_date".zip"
+CSV_FILENAME=$csv_date"COVID19MEXICO.csv"
+ZIP_URL="http://187.191.75.115/gobmx/salud/datos_abiertos/datos_abiertos_covid19.zip"
+curl -L "$ZIP_URL" --output "$zip_dir/$ZIP_FILENAME"
+unzip "$zip_dir/$ZIP_FILENAME" -d "$csv_dir"
 echo "Fetching zip file complete"
