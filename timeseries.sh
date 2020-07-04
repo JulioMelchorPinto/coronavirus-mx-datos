@@ -11,9 +11,9 @@ if [ -f "$output" ]; then
     rm -f "$output"
 fi
 echo " + Creating output file '$output'"
-echo '{"acum":[' >>"$data_dir"nacional.json
+echo '{[' >>"$data_dir"nacional.json
 while [ "$now" != "$end" ]; do
-    date_formated=$(date +"%d-%m-%Y" -d "$now")
+    date_formated=$(date +"%m-%d-%Y" -d "$now")
     input="$data_dir""$now"COVID19MEXICO.csv
     if [ -f "$input" ]; then
         echo " - Reading file '$input'"
