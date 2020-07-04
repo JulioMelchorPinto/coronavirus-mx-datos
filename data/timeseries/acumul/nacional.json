@@ -1,660 +1,658 @@
-{
-    "acum": [
-        {
-            "date": "12-04-2020",
-            "nacional": {
-                "negativos": 23236,
-                "sospechosos": 8697,
-                "positivos": 4661
-            }
-        },
-        {
-            "date": "13-04-2020",
-            "nacional": {
-                "negativos": 24315,
-                "sospechosos": 9341,
-                "positivos": 5014
-            }
-        },
-        {
-            "date": "14-04-2020",
-            "nacional": {
-                "negativos": 25402,
-                "sospechosos": 10792,
-                "positivos": 5399
-            }
-        },
-        {
-            "date": "15-04-2020",
-            "nacional": {
-                "negativos": 26872,
-                "sospechosos": 11717,
-                "positivos": 5847
-            }
-        },
-        {
-            "date": "16-04-2020",
-            "nacional": {
-                "negativos": 28598,
-                "sospechosos": 12340,
-                "positivos": 6297
-            }
-        },
-        {
-            "date": "17-04-2020",
-            "nacional": {
-                "negativos": 28126,
-                "sospechosos": 13364,
-                "positivos": 6875
-            }
-        },
-        {
-            "date": "18-04-2020",
-            "nacional": {
-                "negativos": 29301,
-                "sospechosos": 12369,
-                "positivos": 7497
-            }
-        },
-        {
-            "date": "19-04-2020",
-            "nacional": {
-                "negativos": 31170,
-                "sospechosos": 10139,
-                "positivos": 8261
-            }
-        },
-        {
-            "date": "20-04-2020",
-            "nacional": {
-                "negativos": 32490,
-                "sospechosos": 9653,
-                "positivos": 8772
-            }
-        },
-        {
-            "date": "21-04-2020",
-            "nacional": {
-                "negativos": 33871,
-                "positivos": 9501,
-                "sospechosos": 8262
-            }
-        },
-        {
-            "date": "22-04-2020",
-            "nacional": {
-                "negativos": 37444,
-                "positivos": 10544,
-                "sospechosos": 7706
-            }
-        },
-        {
-            "date": "23-04-2020",
-            "nacional": {
-                "negativos": 39664,
-                "positivos": 11633,
-                "sospechosos": 7588
-            }
-        },
-        {
-            "date": "24-04-2020",
-            "nacional": {
-                "negativos": 41573,
-                "positivos": 12872,
-                "sospechosos": 7889
-            }
-        },
-        {
-            "date": "25-04-2020",
-            "nacional": {
-                "negativos": 43419,
-                "positivos": 13842,
-                "sospechosos": 8239
-            }
-        },
-        {
-            "date": "26-04-2020",
-            "nacional": {
-                "negativos": 45346,
-                "positivos": 14677,
-                "sospechosos": 7612
-            }
-        },
-        {
-            "date": "27-04-2020",
-            "nacional": {
-                "negativos": 46960,
-                "positivos": 15529,
-                "sospechosos": 8614
-            }
-        },
-        {
-            "date": "28-04-2020",
-            "nacional": {
-                "negativos": 49033,
-                "positivos": 16752,
-                "sospechosos": 11220
-            }
-        },
-        {
-            "date": "29-04-2020",
-            "nacional": {
-                "negativos": 50850,
-                "positivos": 17799,
-                "sospechosos": 13263
-            }
-        },
-        {
-            "date": "30-04-2020",
-            "nacional": {
-                "negativos": 52628,
-                "positivos": 19224,
-                "sospechosos": 15520
-            }
-        },
-        {
-            "date": "01-05-2020",
-            "nacional": {
-                "negativos": 55003,
-                "positivos": 20739,
-                "sospechosos": 15446
-            }
-        },
-        {
-            "date": "02-05-2020",
-            "nacional": {
-                "negativos": 57167,
-                "positivos": 22088,
-                "sospechosos": 14536
-            }
-        },
-        {
-            "date": "03-05-2020",
-            "nacional": {
-                "negativos": 59704,
-                "positivos": 23471,
-                "sospechosos": 12664
-            }
-        },
-        {
-            "date": "04-05-2020",
-            "nacional": {
-                "negativos": 61993,
-                "positivos": 24905,
-                "sospechosos": 13143
-            }
-        },
-        {
-            "date": "05-05-2020",
-            "nacional": {
-                "negativos": 63540,
-                "positivos": 26025,
-                "sospechosos": 16099
-            }
-        },
-        {
-            "date": "06-05-2020",
-            "nacional": {
-                "negativos": 65807,
-                "positivos": 27634,
-                "sospechosos": 17553
-            }
-        },
-        {
-            "date": "07-05-2020",
-            "nacional": {
-                "negativos": 68783,
-                "positivos": 29616,
-                "sospechosos": 18812
-            }
-        },
-        {
-            "date": "08-05-2020",
-            "nacional": {
-                "negativos": 71353,
-                "positivos": 31522,
-                "sospechosos": 20571
-            }
-        },
-        {
-            "date": "09-05-2020",
-            "nacional": {
-                "negativos": 73801,
-                "positivos": 33460,
-                "sospechosos": 20887
-            }
-        },
-        {
-            "date": "10-05-2020",
-            "nacional": {
-                "negativos": 75955,
-                "positivos": 35022,
-                "sospechosos": 19979
-            }
-        },
-        {
-            "date": "11-05-2020",
-            "nacional": {
-                "negativos": 77798,
-                "positivos": 36327,
-                "sospechosos": 20991
-            }
-        },
-        {
-            "date": "12-05-2020",
-            "nacional": {
-                "negativos": 80900,
-                "positivos": 38324,
-                "sospechosos": 22980
-            }
-        },
-        {
-            "date": "13-05-2020",
-            "nacional": {
-                "negativos": 83455,
-                "positivos": 40186,
-                "sospechosos": 24856
-            }
-        },
-        {
-            "date": "14-05-2020",
-            "nacional": {
-                "negativos": 86591,
-                "positivos": 42595,
-                "sospechosos": 26746
-            }
-        },
-        {
-            "date": "15-05-2020",
-            "nacional": {
-                "negativos": 89631,
-                "positivos": 45032,
-                "sospechosos": 29028
-            }
-        },
-        {
-            "date": "16-05-2020",
-            "nacional": {
-                "negativos": 92544,
-                "positivos": 47144,
-                "sospechosos": 29409
-            }
-        },
-        {
-            "date": "17-05-2020",
-            "nacional": {
-                "negativos": 95568,
-                "positivos": 49219,
-                "sospechosos": 27507
-            }
-        },
-        {
-            "date": "18-05-2020",
-            "nacional": {
-                "negativos": 98567,
-                "positivos": 51633,
-                "sospechosos": 26933
-            }
-        },
-        {
-            "date": "19-05-2020",
-            "nacional": {
-                "negativos": 101979,
-                "positivos": 54346,
-                "sospechosos": 29450
-            }
-        },
-        {
-            "date": "20-05-2020",
-            "nacional": {
-                "negativos": 105129,
-                "positivos": 56594,
-                "sospechosos": 31866
-            }
-        },
-        {
-            "date": "21-05-2020",
-            "nacional": {
-                "negativos": 108980,
-                "positivos": 59567,
-                "sospechosos": 33291
-            }
-        },
-        {
-            "date": "22-05-2020",
-            "nacional": {
-                "negativos": 113742,
-                "positivos": 62527,
-                "sospechosos": 33801
-            }
-        },
-        {
-            "date": "23-05-2020",
-            "nacional": {
-                "negativos": 118137,
-                "positivos": 65856,
-                "sospechosos": 31663
-            }
-        },
-        {
-            "date": "24-05-2020",
-            "nacional": {
-                "negativos": 121613,
-                "positivos": 68620,
-                "sospechosos": 28931
-            }
-        },
-        {
-            "date": "25-05-2020",
-            "nacional": {
-                "negativos": 125036,
-                "positivos": 71105,
-                "sospechosos": 29509
-            }
-        },
-        {
-            "date": "26-05-2020",
-            "nacional": {
-                "negativos": 128691,
-                "positivos": 74560,
-                "sospechosos": 31878
-            }
-        },
-        {
-            "date": "27-05-2020",
-            "nacional": {
-                "negativos": 133269,
-                "positivos": 78023,
-                "sospechosos": 33566
-            }
-        },
-        {
-            "date": "28-05-2020",
-            "nacional": {
-                "negativos": 137263,
-                "positivos": 81400,
-                "sospechosos": 36131
-            }
-        },
-        {
-            "date": "29-05-2020",
-            "nacional": {
-                "negativos": 140553,
-                "positivos": 84627,
-                "sospechosos": 38846
-            }
-        },
-        {
-            "date": "30-05-2020",
-            "nacional": {
-                "negativos": 144486,
-                "positivos": 87512,
-                "sospechosos": 38994
-            }
-        },
-        {
-            "date": "31-05-2020",
-            "nacional": {
-                "negativos": 147530,
-                "positivos": 90664,
-                "sospechosos": 36803
-            }
-        },
-        {
-            "date": "01-06-2020",
-            "nacional": {
-                "negativos": 150157,
-                "positivos": 93435,
-                "sospechosos": 38497
-            }
-        },
-        {
-            "date": "02-06-2020",
-            "nacional": {
-                "negativos": 153601,
-                "positivos": 97326,
-                "sospechosos": 42151
-            }
-        },
-        {
-            "date": "03-06-2020",
-            "nacional": {
-                "negativos": 157354,
-                "positivos": 101238,
-                "sospechosos": 44869
-            }
-        },
-        {
-            "date": "04-06-2020",
-            "nacional": {
-                "negativos": 161724,
-                "positivos": 105680,
-                "sospechosos": 46659
-            }
-        },
-        {
-            "date": "05-06-2020",
-            "nacional": {
-                "negativos": 166049,
-                "positivos": 110026,
-                "sospechosos": 48822
-            }
-        },
-        {
-            "date": "06-06-2020",
-            "nacional": {
-                "negativos": 170434,
-                "positivos": 113619,
-                "sospechosos": 48273
-            }
-        },
-        {
-            "date": "07-06-2020",
-            "nacional": {
-                "negativos": 173975,
-                "positivos": 117103,
-                "sospechosos": 45317
-            }
-        },
-        {
-            "date": "08-06-2020",
-            "nacional": {
-                "negativos": 177875,
-                "positivos": 120102,
-                "sospechosos": 46398
-            }
-        },
-        {
-            "date": "09-06-2020",
-            "nacional": {
-                "negativos": 182077,
-                "positivos": 124301,
-                "sospechosos": 50677
-            }
-        },
-        {
-            "date": "10-06-2020",
-            "nacional": {
-                "negativos": 186570,
-                "positivos": 129184,
-                "sospechosos": 53608
-            }
-        },
-        {
-            "date": "11-06-2020",
-            "nacional": {
-                "negativos": 191465,
-                "positivos": 133974,
-                "sospechosos": 55700
-            }
-        },
-        {
-            "date": "12-06-2020",
-            "nacional": {
-                "negativos": 197590,
-                "positivos": 139196,
-                "sospechosos": 56928
-            }
-        },
-        {
-            "date": "13-06-2020",
-            "nacional": {
-                "negativos": 202139,
-                "positivos": 142690,
-                "sospechosos": 56926
-            }
-        },
-        {
-            "date": "14-06-2020",
-            "nacional": {
-                "negativos": 207076,
-                "positivos": 146837,
-                "sospechosos": 52636
-            }
-        },
-        {
-            "date": "15-06-2020",
-            "nacional": {
-                "negativos": 211616,
-                "positivos": 150264,
-                "sospechosos": 53217
-            }
-        },
-        {
-            "date": "16-06-2020",
-            "nacional": {
-                "negativos": 216857,
-                "positivos": 154863,
-                "sospechosos": 56843
-            }
-        },
-        {
-            "date": "17-06-2020",
-            "nacional": {
-                "negativos": 222801,
-                "positivos": 159793,
-                "sospechosos": 59076
-            }
-        },
-        {
-            "date": "18-06-2020",
-            "nacional": {
-                "negativos": 228248,
-                "positivos": 165455,
-                "sospechosos": 59778
-            }
-        },
-        {
-            "date": "19-06-2020",
-            "nacional": {
-                "negativos": 233137,
-                "positivos": 170485,
-                "sospechosos": 62245
-            }
-        },
-        {
-            "date": "20-06-2020",
-            "nacional": {
-                "negativos": 238129,
-                "positivos": 175202,
-                "sospechosos": 60621
-            }
-        },
-        {
-            "date": "21-06-2020",
-            "nacional": {
-                "negativos": 242393,
-                "positivos": 180545,
-                "sospechosos": 56590
-            }
-        },
-        {
-            "date": "22-06-2020",
-            "nacional": {
-                "negativos": 246147,
-                "positivos": 185122,
-                "sospechosos": 57281
-            }
-        },
-        {
-            "date": "23-06-2020",
-            "nacional": {
-                "negativos": 251355,
-                "positivos": 191410,
-                "sospechosos": 59106
-            }
-        },
-        {
-            "date": "24-06-2020",
-            "nacional": {
-                "negativos": 256336,
-                "positivos": 196847,
-                "sospechosos": 62475
-            }
-        },
-        {
-            "date": "25-06-2020",
-            "nacional": {
-                "negativos": 262117,
-                "positivos": 202951,
-                "sospechosos": 63583
-            }
-        },
-        {
-            "date": "26-06-2020",
-            "nacional": {
-                "negativos": 267288,
-                "positivos": 208392,
-                "sospechosos": 66440
-            }
-        },
-        {
-            "date": "27-06-2020",
-            "nacional": {
-                "negativos": 271151,
-                "positivos": 212802,
-                "sospechosos": 67099
-            }
-        },
-        {
-            "date": "28-06-2020",
-            "nacional": {
-                "negativos": 275203,
-                "positivos": 216852,
-                "sospechosos": 64143
-            }
-        },
-        {
-            "date": "29-06-2020",
-            "nacional": {
-                "negativos": 279035,
-                "positivos": 220657,
-                "sospechosos": 66910
-            }
-        },
-        {
-            "date": "30-06-2020",
-            "nacional": {
-                "negativos": 283450,
-                "positivos": 226089,
-                "sospechosos": 72041
-            }
-        },
-        {
-            "date": "01-07-2020",
-            "nacional": {
-                "negativos": 289142,
-                "positivos": 231770,
-                "sospechosos": 75005
-            }
-        },
-        {
-            "date": "02-07-2020",
-            "nacional": {
-                "negativos": 295561,
-                "positivos": 238511,
-                "sospechosos": 76423
-            }
+[
+    {
+        "date": "12-04-2020",
+        "nacional": {
+            "negativos": 23236,
+            "sospechosos": 8697,
+            "positivos": 4661
         }
-    ]
-}
+    },
+    {
+        "date": "13-04-2020",
+        "nacional": {
+            "negativos": 24315,
+            "sospechosos": 9341,
+            "positivos": 5014
+        }
+    },
+    {
+        "date": "14-04-2020",
+        "nacional": {
+            "negativos": 25402,
+            "sospechosos": 10792,
+            "positivos": 5399
+        }
+    },
+    {
+        "date": "15-04-2020",
+        "nacional": {
+            "negativos": 26872,
+            "sospechosos": 11717,
+            "positivos": 5847
+        }
+    },
+    {
+        "date": "16-04-2020",
+        "nacional": {
+            "negativos": 28598,
+            "sospechosos": 12340,
+            "positivos": 6297
+        }
+    },
+    {
+        "date": "17-04-2020",
+        "nacional": {
+            "negativos": 28126,
+            "sospechosos": 13364,
+            "positivos": 6875
+        }
+    },
+    {
+        "date": "18-04-2020",
+        "nacional": {
+            "negativos": 29301,
+            "sospechosos": 12369,
+            "positivos": 7497
+        }
+    },
+    {
+        "date": "19-04-2020",
+        "nacional": {
+            "negativos": 31170,
+            "sospechosos": 10139,
+            "positivos": 8261
+        }
+    },
+    {
+        "date": "20-04-2020",
+        "nacional": {
+            "negativos": 32490,
+            "sospechosos": 9653,
+            "positivos": 8772
+        }
+    },
+    {
+        "date": "21-04-2020",
+        "nacional": {
+            "negativos": 33871,
+            "positivos": 9501,
+            "sospechosos": 8262
+        }
+    },
+    {
+        "date": "22-04-2020",
+        "nacional": {
+            "negativos": 37444,
+            "positivos": 10544,
+            "sospechosos": 7706
+        }
+    },
+    {
+        "date": "23-04-2020",
+        "nacional": {
+            "negativos": 39664,
+            "positivos": 11633,
+            "sospechosos": 7588
+        }
+    },
+    {
+        "date": "24-04-2020",
+        "nacional": {
+            "negativos": 41573,
+            "positivos": 12872,
+            "sospechosos": 7889
+        }
+    },
+    {
+        "date": "25-04-2020",
+        "nacional": {
+            "negativos": 43419,
+            "positivos": 13842,
+            "sospechosos": 8239
+        }
+    },
+    {
+        "date": "26-04-2020",
+        "nacional": {
+            "negativos": 45346,
+            "positivos": 14677,
+            "sospechosos": 7612
+        }
+    },
+    {
+        "date": "27-04-2020",
+        "nacional": {
+            "negativos": 46960,
+            "positivos": 15529,
+            "sospechosos": 8614
+        }
+    },
+    {
+        "date": "28-04-2020",
+        "nacional": {
+            "negativos": 49033,
+            "positivos": 16752,
+            "sospechosos": 11220
+        }
+    },
+    {
+        "date": "29-04-2020",
+        "nacional": {
+            "negativos": 50850,
+            "positivos": 17799,
+            "sospechosos": 13263
+        }
+    },
+    {
+        "date": "30-04-2020",
+        "nacional": {
+            "negativos": 52628,
+            "positivos": 19224,
+            "sospechosos": 15520
+        }
+    },
+    {
+        "date": "01-05-2020",
+        "nacional": {
+            "negativos": 55003,
+            "positivos": 20739,
+            "sospechosos": 15446
+        }
+    },
+    {
+        "date": "02-05-2020",
+        "nacional": {
+            "negativos": 57167,
+            "positivos": 22088,
+            "sospechosos": 14536
+        }
+    },
+    {
+        "date": "03-05-2020",
+        "nacional": {
+            "negativos": 59704,
+            "positivos": 23471,
+            "sospechosos": 12664
+        }
+    },
+    {
+        "date": "04-05-2020",
+        "nacional": {
+            "negativos": 61993,
+            "positivos": 24905,
+            "sospechosos": 13143
+        }
+    },
+    {
+        "date": "05-05-2020",
+        "nacional": {
+            "negativos": 63540,
+            "positivos": 26025,
+            "sospechosos": 16099
+        }
+    },
+    {
+        "date": "06-05-2020",
+        "nacional": {
+            "negativos": 65807,
+            "positivos": 27634,
+            "sospechosos": 17553
+        }
+    },
+    {
+        "date": "07-05-2020",
+        "nacional": {
+            "negativos": 68783,
+            "positivos": 29616,
+            "sospechosos": 18812
+        }
+    },
+    {
+        "date": "08-05-2020",
+        "nacional": {
+            "negativos": 71353,
+            "positivos": 31522,
+            "sospechosos": 20571
+        }
+    },
+    {
+        "date": "09-05-2020",
+        "nacional": {
+            "negativos": 73801,
+            "positivos": 33460,
+            "sospechosos": 20887
+        }
+    },
+    {
+        "date": "10-05-2020",
+        "nacional": {
+            "negativos": 75955,
+            "positivos": 35022,
+            "sospechosos": 19979
+        }
+    },
+    {
+        "date": "11-05-2020",
+        "nacional": {
+            "negativos": 77798,
+            "positivos": 36327,
+            "sospechosos": 20991
+        }
+    },
+    {
+        "date": "12-05-2020",
+        "nacional": {
+            "negativos": 80900,
+            "positivos": 38324,
+            "sospechosos": 22980
+        }
+    },
+    {
+        "date": "13-05-2020",
+        "nacional": {
+            "negativos": 83455,
+            "positivos": 40186,
+            "sospechosos": 24856
+        }
+    },
+    {
+        "date": "14-05-2020",
+        "nacional": {
+            "negativos": 86591,
+            "positivos": 42595,
+            "sospechosos": 26746
+        }
+    },
+    {
+        "date": "15-05-2020",
+        "nacional": {
+            "negativos": 89631,
+            "positivos": 45032,
+            "sospechosos": 29028
+        }
+    },
+    {
+        "date": "16-05-2020",
+        "nacional": {
+            "negativos": 92544,
+            "positivos": 47144,
+            "sospechosos": 29409
+        }
+    },
+    {
+        "date": "17-05-2020",
+        "nacional": {
+            "negativos": 95568,
+            "positivos": 49219,
+            "sospechosos": 27507
+        }
+    },
+    {
+        "date": "18-05-2020",
+        "nacional": {
+            "negativos": 98567,
+            "positivos": 51633,
+            "sospechosos": 26933
+        }
+    },
+    {
+        "date": "19-05-2020",
+        "nacional": {
+            "negativos": 101979,
+            "positivos": 54346,
+            "sospechosos": 29450
+        }
+    },
+    {
+        "date": "20-05-2020",
+        "nacional": {
+            "negativos": 105129,
+            "positivos": 56594,
+            "sospechosos": 31866
+        }
+    },
+    {
+        "date": "21-05-2020",
+        "nacional": {
+            "negativos": 108980,
+            "positivos": 59567,
+            "sospechosos": 33291
+        }
+    },
+    {
+        "date": "22-05-2020",
+        "nacional": {
+            "negativos": 113742,
+            "positivos": 62527,
+            "sospechosos": 33801
+        }
+    },
+    {
+        "date": "23-05-2020",
+        "nacional": {
+            "negativos": 118137,
+            "positivos": 65856,
+            "sospechosos": 31663
+        }
+    },
+    {
+        "date": "24-05-2020",
+        "nacional": {
+            "negativos": 121613,
+            "positivos": 68620,
+            "sospechosos": 28931
+        }
+    },
+    {
+        "date": "25-05-2020",
+        "nacional": {
+            "negativos": 125036,
+            "positivos": 71105,
+            "sospechosos": 29509
+        }
+    },
+    {
+        "date": "26-05-2020",
+        "nacional": {
+            "negativos": 128691,
+            "positivos": 74560,
+            "sospechosos": 31878
+        }
+    },
+    {
+        "date": "27-05-2020",
+        "nacional": {
+            "negativos": 133269,
+            "positivos": 78023,
+            "sospechosos": 33566
+        }
+    },
+    {
+        "date": "28-05-2020",
+        "nacional": {
+            "negativos": 137263,
+            "positivos": 81400,
+            "sospechosos": 36131
+        }
+    },
+    {
+        "date": "29-05-2020",
+        "nacional": {
+            "negativos": 140553,
+            "positivos": 84627,
+            "sospechosos": 38846
+        }
+    },
+    {
+        "date": "30-05-2020",
+        "nacional": {
+            "negativos": 144486,
+            "positivos": 87512,
+            "sospechosos": 38994
+        }
+    },
+    {
+        "date": "31-05-2020",
+        "nacional": {
+            "negativos": 147530,
+            "positivos": 90664,
+            "sospechosos": 36803
+        }
+    },
+    {
+        "date": "01-06-2020",
+        "nacional": {
+            "negativos": 150157,
+            "positivos": 93435,
+            "sospechosos": 38497
+        }
+    },
+    {
+        "date": "02-06-2020",
+        "nacional": {
+            "negativos": 153601,
+            "positivos": 97326,
+            "sospechosos": 42151
+        }
+    },
+    {
+        "date": "03-06-2020",
+        "nacional": {
+            "negativos": 157354,
+            "positivos": 101238,
+            "sospechosos": 44869
+        }
+    },
+    {
+        "date": "04-06-2020",
+        "nacional": {
+            "negativos": 161724,
+            "positivos": 105680,
+            "sospechosos": 46659
+        }
+    },
+    {
+        "date": "05-06-2020",
+        "nacional": {
+            "negativos": 166049,
+            "positivos": 110026,
+            "sospechosos": 48822
+        }
+    },
+    {
+        "date": "06-06-2020",
+        "nacional": {
+            "negativos": 170434,
+            "positivos": 113619,
+            "sospechosos": 48273
+        }
+    },
+    {
+        "date": "07-06-2020",
+        "nacional": {
+            "negativos": 173975,
+            "positivos": 117103,
+            "sospechosos": 45317
+        }
+    },
+    {
+        "date": "08-06-2020",
+        "nacional": {
+            "negativos": 177875,
+            "positivos": 120102,
+            "sospechosos": 46398
+        }
+    },
+    {
+        "date": "09-06-2020",
+        "nacional": {
+            "negativos": 182077,
+            "positivos": 124301,
+            "sospechosos": 50677
+        }
+    },
+    {
+        "date": "10-06-2020",
+        "nacional": {
+            "negativos": 186570,
+            "positivos": 129184,
+            "sospechosos": 53608
+        }
+    },
+    {
+        "date": "11-06-2020",
+        "nacional": {
+            "negativos": 191465,
+            "positivos": 133974,
+            "sospechosos": 55700
+        }
+    },
+    {
+        "date": "12-06-2020",
+        "nacional": {
+            "negativos": 197590,
+            "positivos": 139196,
+            "sospechosos": 56928
+        }
+    },
+    {
+        "date": "13-06-2020",
+        "nacional": {
+            "negativos": 202139,
+            "positivos": 142690,
+            "sospechosos": 56926
+        }
+    },
+    {
+        "date": "14-06-2020",
+        "nacional": {
+            "negativos": 207076,
+            "positivos": 146837,
+            "sospechosos": 52636
+        }
+    },
+    {
+        "date": "15-06-2020",
+        "nacional": {
+            "negativos": 211616,
+            "positivos": 150264,
+            "sospechosos": 53217
+        }
+    },
+    {
+        "date": "16-06-2020",
+        "nacional": {
+            "negativos": 216857,
+            "positivos": 154863,
+            "sospechosos": 56843
+        }
+    },
+    {
+        "date": "17-06-2020",
+        "nacional": {
+            "negativos": 222801,
+            "positivos": 159793,
+            "sospechosos": 59076
+        }
+    },
+    {
+        "date": "18-06-2020",
+        "nacional": {
+            "negativos": 228248,
+            "positivos": 165455,
+            "sospechosos": 59778
+        }
+    },
+    {
+        "date": "19-06-2020",
+        "nacional": {
+            "negativos": 233137,
+            "positivos": 170485,
+            "sospechosos": 62245
+        }
+    },
+    {
+        "date": "20-06-2020",
+        "nacional": {
+            "negativos": 238129,
+            "positivos": 175202,
+            "sospechosos": 60621
+        }
+    },
+    {
+        "date": "21-06-2020",
+        "nacional": {
+            "negativos": 242393,
+            "positivos": 180545,
+            "sospechosos": 56590
+        }
+    },
+    {
+        "date": "22-06-2020",
+        "nacional": {
+            "negativos": 246147,
+            "positivos": 185122,
+            "sospechosos": 57281
+        }
+    },
+    {
+        "date": "23-06-2020",
+        "nacional": {
+            "negativos": 251355,
+            "positivos": 191410,
+            "sospechosos": 59106
+        }
+    },
+    {
+        "date": "24-06-2020",
+        "nacional": {
+            "negativos": 256336,
+            "positivos": 196847,
+            "sospechosos": 62475
+        }
+    },
+    {
+        "date": "25-06-2020",
+        "nacional": {
+            "negativos": 262117,
+            "positivos": 202951,
+            "sospechosos": 63583
+        }
+    },
+    {
+        "date": "26-06-2020",
+        "nacional": {
+            "negativos": 267288,
+            "positivos": 208392,
+            "sospechosos": 66440
+        }
+    },
+    {
+        "date": "27-06-2020",
+        "nacional": {
+            "negativos": 271151,
+            "positivos": 212802,
+            "sospechosos": 67099
+        }
+    },
+    {
+        "date": "28-06-2020",
+        "nacional": {
+            "negativos": 275203,
+            "positivos": 216852,
+            "sospechosos": 64143
+        }
+    },
+    {
+        "date": "29-06-2020",
+        "nacional": {
+            "negativos": 279035,
+            "positivos": 220657,
+            "sospechosos": 66910
+        }
+    },
+    {
+        "date": "30-06-2020",
+        "nacional": {
+            "negativos": 283450,
+            "positivos": 226089,
+            "sospechosos": 72041
+        }
+    },
+    {
+        "date": "01-07-2020",
+        "nacional": {
+            "negativos": 289142,
+            "positivos": 231770,
+            "sospechosos": 75005
+        }
+    },
+    {
+        "date": "02-07-2020",
+        "nacional": {
+            "negativos": 295561,
+            "positivos": 238511,
+            "sospechosos": 76423
+        }
+    }
+]
