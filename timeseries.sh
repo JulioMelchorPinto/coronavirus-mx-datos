@@ -11,7 +11,7 @@ if [ -f "$output" ]; then
     rm -f "$output"
 fi
 echo " + Creating output file '$output'"
-echo '{[' >>"$data_dir"nacional.json
+echo '[' >>"$data_dir"nacional.json
 while [ "$now" != "$end" ]; do
     date_formated=$(date +"%m-%d-%Y" -d "$now")
     input="$data_dir""$now"COVID19MEXICO.csv
@@ -36,7 +36,7 @@ while [ "$now" != "$end" ]; do
     echo '},' >>"$data_dir"nacional.json
     now=$(date +"%y%m%d" -d "$now + 1 day")
 done
-echo ']}' >>"$data_dir"nacional.json
+echo ']' >>"$data_dir"nacional.json
 echo " ====> Generate file complete: 'national.json' from date: ""$begin"" to date: ""$date_formated"
 cp "$data_dir"nacional.json timeseries/acumul/"nacional.json"
 exit
